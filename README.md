@@ -1,16 +1,17 @@
-# AMSX SOURCE EXTRACTOR
+# GetSourceWeb
 
 Web Source Extractor & Auto-Decode Engine
 
 ---
 
-## FEATURES
+## FITUR
 
 - Auto decode Base64, Hex, URL, Unicode
 - Extract CSS, JS, Images, Inline scripts
 - Multi-threading for speed
 - Detailed statistics
 - ZIP archive output
+- Interactive menu
 
 ---
 
@@ -26,7 +27,7 @@ python getsource.py
 
 Linux / Mac:
 sudo apt update && sudo apt install python3 python3-pip git -y
-git clone https://github.com/Yanto-yanti-source/source-extractor/)
+git clone https://github.com/Yanto-yanti-source/source-extractor/
 cd source-extractor
 pip3 install -r requirements.txt
 python3 getsource.py
@@ -41,16 +42,13 @@ python getsource.py
 
 ## USAGE
 
-Basic:
+Interactive Menu:
+python getsource.py
+
+Direct Command:
 python getsource.py https://example.com
-
-Custom output directory:
 python getsource.py https://target.com -o ./results
-
-Help:
 python getsource.py -h
-
-Version:
 python getsource.py -v
 
 ---
@@ -81,10 +79,11 @@ urllib3>=2.0.0
 
 ## DISCLAIMER
 
-baca di bawah ini:
-- di larang merename full tnpa ada nama amsX
-- jika ingin share kasih ch : https://whatsapp.com/channel/0029Vb06mTx8F2p6ZFxwaL34
-- gunakan dengan bijak
+- Dilarang rename full tanpa ada nama amsX
+- Jika ingin share kasih ch: https://whatsapp.com/channel/0029Vb06mTx8F2p6ZFxwaL34
+- Gunakan dengan bijak
+- Tools ini hanya untuk edukasi dan riset
+- Dilarang untuk aktivitas ilegal
 
 ---
 
