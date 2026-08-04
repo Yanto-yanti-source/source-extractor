@@ -19,20 +19,20 @@ Web Source Extractor & Auto-Decode Engine
 Termux / Android:
 pkg update && pkg upgrade
 pkg install python git
-git clone https://github.com/amsx/source-extractor
+git clone https://github.com/Yanto-yanti-source/source-extractor/
 cd source-extractor
 pip install -r requirements.txt
 python getsource.py
 
 Linux / Mac:
 sudo apt update && sudo apt install python3 python3-pip git -y
-git clone https://github.com/amsx/source-extractor
+git clone https://github.com/Yanto-yanti-source/source-extractor/)
 cd source-extractor
 pip3 install -r requirements.txt
 python3 getsource.py
 
 Windows:
-git clone https://github.com/amsx/source-extractor
+git clone https://github.com/Yanto-yanti-source/source-extractor/
 cd source-extractor
 pip install -r requirements.txt
 python getsource.py
@@ -90,7 +90,7 @@ baca di bawah ini:
 
 ## GITHUB
 
-https://github.com/amsx/source-extractor
+https://github.com/Yanto-yanti-source/source-extractor/
 
 ---
 
